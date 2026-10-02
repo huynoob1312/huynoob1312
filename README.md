@@ -15,10 +15,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Building **Retrieval-Augmented Generation (RAG)** applications and researching LLM architectures, context embeddings, and subword tokenization (BPE/WordPiece).
-- 🌱 **Deep Diving Into:** Computer vision model optimization (PyTorch dynamic INT8 quantization), OCR architectures, and liveness detection systems.
+- 🔭 **Current Focus:** Building NLP, LLM, CV applications and researching architectures, ...
 - 📚 **Academic Interests:** I actively analyze ML research papers applying Keshav's Three-Pass Approach—currently exploring BERT, Transfromer, YOLO literature,...
-- ⚡ **Fun Fact:** When I'm not training models or configuring PyCharm environments, you can find me fine-tuning my custom PC rig or gaming.
 
 ---
 
