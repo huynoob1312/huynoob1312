@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Architecting+Computer+Vision+Pipelines;Developing+RAG+%26+LLM+Systems;Optimizing+Deep+Learning+Models;Crafting+FastAPI+Backends" alt="Typing SVG" /></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+AI+Models;Exploring+Computer+Vision;Learning+NLP+%26+LLMs;Developing+Python+APIs" alt="Typing SVG" /></a>
   </p>
 </div>
 
@@ -45,8 +45,8 @@
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
