@@ -60,14 +60,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[huynoob1312]&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=ffffff" width="50%" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
