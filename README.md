@@ -63,11 +63,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[huynoob1312]&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[huynoob1312]&theme=transparent&hide_border=true&ring=2196F3&fire=2196F3&currStreakNum=ffffff" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[huynoob1312]&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=ffffff" width="50%" />
 </div>
 
