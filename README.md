@@ -51,7 +51,7 @@
 ### 🚀 Highlighted Projects
 
 * **RAG_LEGAL QA System (NLP/LLM):** Engineered a robust Retrieval-Augmented Generation application for legal documents utilizing LangChain (Markdown/Recursive Text Splitters) and Qdrant vector databases with Parent-Child retrieval logic.
-* **Restaurant Sentiment Analysis (NLP):** Developed a Natural Language Processing model using [Công cụ/Model bạn dùng, ví dụ: Hugging Face Transformers / Scikit-learn] to classify customer reviews and extract sentiment insights from restaurant feedback data.
+* **Restaurant Sentiment Analysis (NLP):** Developed a Natural Language Processing model using [Hugging Face, Pytorch] to classify customer reviews and extract sentiment insights from restaurant feedback data.
 * **Optimized CRNN Pipeline (CV/NLP):** Developed a PyTorch-based text recognition model for automated invoice extraction (MC-OCR dataset). Implemented dynamic INT8 quantization to compress model weights and bypass GitHub file limits without sacrificing accuracy.
 * **SRUnet - Image Super-Resolution (CV):** Designed and trained a PyTorch UNet architecture to enhance image resolution, complete with custom training pipelines and Peak Signal-to-Noise Ratio (PSNR) evaluation metrics.
 * 
