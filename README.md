@@ -51,6 +51,7 @@
 ### 🚀 Highlighted Projects
 
 * **RAG_LEGAL QA System (NLP/LLM):** Engineered a robust Retrieval-Augmented Generation application for legal documents utilizing LangChain (Markdown/Recursive Text Splitters) and Qdrant vector databases with Parent-Child retrieval logic.
+* **DialogSum Multi-Task System (NLP/LLM):** Built a multi-task dialogue summarization and topic extraction application utilizing PyTorch (custom Seq2Seq/Transformer from scratch) and fine-tuned BART, LLaMA-3.2-3B via Unsloth QLoRA, deployed with FastAPI (<600ms latency) and Streamlit.
 * **Restaurant Sentiment Analysis (NLP):** Developed a Natural Language Processing model using [Hugging Face, Pytorch] to classify customer reviews and extract sentiment insights from restaurant feedback data.
 * **Optimized CRNN Pipeline (CV/NLP):** Developed a PyTorch-based text recognition model for automated invoice extraction (MC-OCR dataset). Implemented dynamic INT8 quantization to compress model weights and bypass GitHub file limits without sacrificing accuracy.
 * **SRUnet - Image Super-Resolution (CV):** Designed and trained a PyTorch UNet architecture to enhance image resolution, complete with custom training pipelines and Peak Signal-to-Noise Ratio (PSNR) evaluation metrics.
